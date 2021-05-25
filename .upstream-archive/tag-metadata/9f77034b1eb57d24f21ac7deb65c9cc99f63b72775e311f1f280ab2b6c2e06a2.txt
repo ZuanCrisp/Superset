@@ -1,0 +1,31 @@
+Original tag name: 1.2.0
+Original tag object: dbbec9b92bbb645a1fda062575911443bcc8db5a
+Original target commit: 387d93302fa2f4f475cd572b62d0908615e67919
+Original object type: tag
+
+--- Original annotated tag object body ---
+object 387d93302fa2f4f475cd572b62d0908615e67919
+type commit
+tag 1.2.0
+tagger amitmiran137 <amit.miran@nielsen.com> 1625383926 +0300
+
+ Community,
+
+The Apache Superset team is pleased to announce that Superset
+1.2.0 has just been released.
+
+Apache Superset is a modern, enterprise-ready business intelligence web application.
+Superset 1.2 continues the Apache ECharts migration by introducing several chart types. It also brings with it tons of user experience improvements, API improvements, bug fixes, and continued development of experimental features included in previous releases. Keep reading for more details on these categories:
+
+- The official source release: https://www.apache.org/dist/superset/1.2.0
+- The PyPI package: https://pypi.org/project/apache-superset/1.2.0/
+- Release notes: https://github.com/apache/superset/tree/master/RELEASING/release-notes-1-2
+
+If you have any usage questions, or have problems when upgrading or
+find any problems about enhancements included in this release, please
+don't hesitate to let us know by sending feedback to this mailing
+list.
+
+---------------------------------------------------------------------
+To unsubscribe, e-mail: general-unsubscribe@apache.org
+For additional commands, e-mail: general-help@apache.org
