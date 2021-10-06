@@ -1,0 +1,12 @@
+Original tag name: v2021.41.0
+Original tag object: 828209dfae96a9628b012e4debe8d05f8b50306e
+Original target commit: 90cfa7fb222119a67895eec41dd621471a42a3be
+Original object type: tag
+
+--- Original annotated tag object body ---
+object 90cfa7fb222119a67895eec41dd621471a42a3be
+type commit
+tag v2021.41.0
+tagger Preset Bot <services+github+machine@preset.io> 1633557572 +0000
+
+Release maker automated tag "v2021.41.0"
