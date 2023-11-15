@@ -1,0 +1,6 @@
+Original tag name: superset-helm-chart-0.10.15
+Original tag object: 5e1c4057a06e194462b53de04d621637860fc054
+Original target commit: 5e1c4057a06e194462b53de04d621637860fc054
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
