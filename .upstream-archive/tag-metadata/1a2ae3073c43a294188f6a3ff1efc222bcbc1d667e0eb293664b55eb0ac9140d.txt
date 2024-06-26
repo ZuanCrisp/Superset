@@ -1,0 +1,6 @@
+Original tag name: 4.0.2rc2
+Original tag object: f11fa091e261a35f4d39d8567a859fad07547d84
+Original target commit: f11fa091e261a35f4d39d8567a859fad07547d84
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
