@@ -1,0 +1,12 @@
+Original tag name: v0.20.4
+Original tag object: 32e5d7bfb0ba5ed7b28c31c93bc0cb6a42140efe
+Original target commit: 45ca04bdeae6d4bf7005d68336a8c62900e9a6ea
+Original object type: tag
+
+--- Original annotated tag object body ---
+object 45ca04bdeae6d4bf7005d68336a8c62900e9a6ea
+type commit
+tag v0.20.4
+tagger Evan Rusackas <evan@rusackas.com> 1733850583 -0700
+
+v0.20.4
