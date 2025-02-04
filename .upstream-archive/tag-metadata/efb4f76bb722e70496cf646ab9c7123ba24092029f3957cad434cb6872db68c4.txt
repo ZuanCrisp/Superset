@@ -1,0 +1,6 @@
+Original tag name: 5.0.0rc1
+Original tag object: 890186a8e2144db57d4c5ba4f5c8ce2d9008dc37
+Original target commit: 890186a8e2144db57d4c5ba4f5c8ce2d9008dc37
+Original object type: commit
+
+Lightweight tag; the original target commit is recorded above.
